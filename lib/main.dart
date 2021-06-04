@@ -148,6 +148,7 @@ final List<String> imgList = [
 class DetailsScreen extends StatelessWidget {
   final Article articleDetails;
   final List<PerfilElement> feed;
+  //final List<String> imgList2 = List.empty();
 
   const DetailsScreen({Key key, this.articleDetails, this.feed})
       : super(key: key);
