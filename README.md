@@ -1,10 +1,3 @@
-#Description
-Outro projeto de faculdade totalmente feito do zero, uma aplicação que consiste em intermediar usuarios com clientes da plataforma!
-BackEnd feito em CMSHeadless(StrApi).
-FrontEnd desenvolvido totalmente em Dart/Flutter.
-
-
-
 # trab_project_flutter
 
 A new Flutter project.
