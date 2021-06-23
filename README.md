@@ -1,3 +1,5 @@
 # trab_project_flutter
 
-Projeto de faculdade #INCOMPLETO#
+Projeto de faculdade
+
+## Ainda incompleto
